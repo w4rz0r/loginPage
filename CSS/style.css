@@ -30,7 +30,7 @@ body {
     display: grid;
     width: 300px;
     height: 300px;
-    background-image: linear-gradient(rgba(9, 11, 20, 0.7), rgba(142, 9, 120, 0.7));
+    background-image: linear-gradient(rgba(9, 11, 20, 0.7), rgba(142, 9, 120, 0.7), url(https://github.com/w4rz0r/loginPage2/blob/main/images/login-image.png?raw=true));
     background-size: contain;
     margin: 0 auto;
     margin-top: 20vh;
